@@ -1,3 +1,6 @@
-let caca = "swagg bitcch !";
+let caca = "swagg bitcch ! ";
+const coco = 79
 
-console.log (caca)
+console.log (caca + coco)
+
+// alert ("fin!");

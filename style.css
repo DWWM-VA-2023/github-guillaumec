@@ -1,5 +1,6 @@
 body {
     background-color: aquamarine;
+    width: auto;
 }
 
 h1 {
@@ -14,4 +15,5 @@ p {
 
 #image1 {
     position: relative;
+    width: auto;
 }
